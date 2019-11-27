@@ -18,7 +18,7 @@ Adorooooo JavaScript, acho que da pra fazer de tudo com essa linguagem. Além do
 
 ##  ECMAScript x JavaScript:
 
-![](https://media.giphy.com/media/10bdAP4IOmoN7G/giphy.gif)
+![](javawhat.gif)
 
 
 Muita gente não entende o que que é ECMASCRIPT e o que é JavaScript, achando que é a mesma coisa, mas não é!
