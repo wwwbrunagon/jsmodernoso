@@ -18,7 +18,7 @@ Adorooooo JavaScript, acho que da pra fazer de tudo com essa linguagem. Além do
 
 ##  ECMAScript x JavaScript:
 
-![](https://www.reddit.com/r/memes/comments/6x0rkn/javascript_wars/)
+![](https://media.giphy.com/media/10bdAP4IOmoN7G/giphy.gif)
 
 
 Muita gente não entende o que que é ECMASCRIPT e o que é JavaScript, achando que é a mesma coisa, mas não é!
@@ -40,5 +40,4 @@ O ECMAScript é na verdade é a especificação da linguagem de script que o Jav
 ---------------------------------------------------
 ### Como tudo começou…
 
-[JavaScript — Evolução e Especificações ] (https://medium.com/jaguaribetech/javascript-evolu%C3%A7%C3%A3o-e-especifica%C3%A7%C3%B5es-bb3c218e15e1)
-
+* [JavaScript — Evolução e Especificações](https://medium.com/jaguaribetech/javascript-evolu%C3%A7%C3%A3o-e-especifica%C3%A7%C3%B5es-bb3c218e15e1)
