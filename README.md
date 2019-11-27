@@ -18,6 +18,9 @@ Adorooooo JavaScript, acho que da pra fazer de tudo com essa linguagem. Além do
 
 ##  ECMAScript x JavaScript:
 
+![](https://www.reddit.com/r/memes/comments/6x0rkn/javascript_wars/)
+
+
 Muita gente não entende o que que é ECMASCRIPT e o que é JavaScript, achando que é a mesma coisa, mas não é!
 
 O ECMAScript é na verdade é a especificação da linguagem de script que o JavaScript implementa, ou seja em outras palavras é uma própria descrição da linguagem, ela diz como são as variáveis, como devem funcionar as funções, as sintaxes, qualquer outro detalhe que você possa imaginar  ta descrito nesse documento. Ela é padronizada pela ECMA internacional que é uma associação criada lá em 1961dedicada à padronização de sistemas de informação e comunicação, essa especificação é definida pela TC39  que é um comitê fomarda por especialistas de grandes companhias da área da tecnologia, empresas como Apple, Google, MicroSoft, Mozila... Esse comitê se reúne aproximadamente a cada 2 meses na California, o tão conhecido berço da tenocnologia, o vale do silício, para discutir o futuro da especificação.  As datas, as reuniões e mais detalhes estão disponível no site oficial 
@@ -34,5 +37,8 @@ O ECMAScript é na verdade é a especificação da linguagem de script que o Jav
 
 * [Repositório do TC39 no GitHub](https://babeljs.io/) 
 
+---------------------------------------------------
+### Como tudo começou…
 
+[JavaScript — Evolução e Especificações ] (https://medium.com/jaguaribetech/javascript-evolu%C3%A7%C3%A3o-e-especifica%C3%A7%C3%B5es-bb3c218e15e1)
 
