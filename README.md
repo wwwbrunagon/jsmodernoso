@@ -31,7 +31,7 @@ O ECMAScript é na verdade é a especificação da linguagem de script que o Jav
   <img width="400" height="400" src="https://i1.wp.com/blog.caelum.com.br/wp-content/uploads/2013/11/JavaScript-logo.png?ssl=1">
 </p>
 
-* [Site Oficial da ECMA Internacional](https://www.ecma-international.org/ 
+* [Site Oficial da ECMA Internacional](https://www.ecma-international.org/)
 
 * [Especificação ES6](http://www.ecma-international.org/publications/files/ECMA-ST/Ecma-262.pdf) 
 
@@ -58,5 +58,9 @@ O ECMAScript é na verdade é a especificação da linguagem de script que o Jav
 
 * [JavaScript: manual de sobrevivência 2020](https://open.spotify.com/episode/1hELPq0dPXeMvxUQcDYo50?si=CeSHOSXPSj2wz1ItZ2OQQg) – Hipsters #169
 
+---------------------------------------------------
+### O Modernoso
+
+* [Pílulas de JavaScript](https://medium.com/@larimaza) - por Lari Maza
 
 
