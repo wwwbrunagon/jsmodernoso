@@ -4,8 +4,8 @@ Atualmente, é praticamente impossível imaginar a Internet sem a existência do
 ![](reprograma-tech-talk.jpg)
 
 ## Eu, Bruna Gonçalves, Front-end Déva
-
-Adorooooo JavaScript, acho que da pra fazer de tudo com essa linguagem. Além do meu amor por JavaScript também sou apaixonada por realidade virtual e machine learning. Me considero extremamente determinada e obcecada por tecnologia. E clichemente amo café.
+Participei da turma 5 de front-end da [{reprograma}](https://reprograma.com.br/), primeira turma do bootcamp da estação hack do facebook, e atualmente sou Front-End {Software Engineer} na [Stilingue](https://www.linkedin.com/company/stilingue/).
+Adoro JavaScript, acho que da pra fazer de tudo com essa linguagem. Também acho um máximo tudo que envolve realidade virtual e machine learning. Me considero extremamente determinada e obcecada por tecnologia. E amo um cliché principalmente café .
 
 ### entre em contato:
 
