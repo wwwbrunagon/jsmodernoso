@@ -27,6 +27,9 @@ O ECMAScript é na verdade é a especificação da linguagem de script que o Jav
 
 ### Referências:
 
+<img align="left" width="100" height="100" src="https://i1.wp.com/blog.caelum.com.br/wp-content/uploads/2013/11/JavaScript-logo.png?ssl=1">
+
+
 * [Site Oficial da ECMA Internacional](https://www.linkedin.com/in/wwwbrunagon) 
 
 * [Especificação ES6](http://www.ecma-international.org/publications/files/ECMA-ST/Ecma-262.pdf) 
@@ -35,7 +38,16 @@ O ECMAScript é na verdade é a especificação da linguagem de script que o Jav
 
 * [Repositório do TC39 no GitHub](https://github.com/tc39/ecma262) 
 
-* [Repositório do TC39 no GitHub](https://babeljs.io/) 
+* [Site Oficial do Babel](https://babeljs.io/) 
+
+* [Tabela de implementação](https://kangax.github.io/compat-table/es6/) por browser dos recursos do JavaScript (kangax)
+
+* [Overview de todas as mudanças do ES6](https://ponyfoo.com/articles/es6) (em inglês)
+
+* [Portal BrazilJS](https://braziljs.org/) 
+
+* [Porque começar a programar com JavaScript](https://blog.caelum.com.br/comecar-a-programar-e-com-javascript/) 
+
 
 ---------------------------------------------------
 ### Como tudo começou…
