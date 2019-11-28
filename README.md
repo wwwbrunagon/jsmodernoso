@@ -49,8 +49,14 @@ O ECMAScript é na verdade é a especificação da linguagem de script que o Jav
 
 * [Porque começar a programar com JavaScript](https://blog.caelum.com.br/comecar-a-programar-e-com-javascript/) 
 
+* [JavaScript para quem sabe nada de JavaScript](https://medium.com/reprogramabr/javascript-pra-quem-sabe-nada-de-javascript-16c0d57a8960)
 
 ---------------------------------------------------
 ### Como tudo começou…
 
 * [JavaScript — Evolução e Especificações](https://medium.com/jaguaribetech/javascript-evolu%C3%A7%C3%A3o-e-especifica%C3%A7%C3%B5es-bb3c218e15e1)
+
+* [JavaScript: manual de sobrevivência 2020](https://open.spotify.com/episode/1hELPq0dPXeMvxUQcDYo50?si=CeSHOSXPSj2wz1ItZ2OQQg) – Hipsters #169
+
+
+
