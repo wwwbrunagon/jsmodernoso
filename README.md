@@ -27,8 +27,9 @@ O ECMAScript é na verdade é a especificação da linguagem de script que o Jav
 
 ### Referências:
 
-<img align="left" width="100" height="100" src="https://i1.wp.com/blog.caelum.com.br/wp-content/uploads/2013/11/JavaScript-logo.png?ssl=1">
-
+<p align="center">
+  <img src="https://i1.wp.com/blog.caelum.com.br/wp-content/uploads/2013/11/JavaScript-logo.png?ssl=1">
+</p>
 
 * [Site Oficial da ECMA Internacional](https://www.linkedin.com/in/wwwbrunagon) 
 
