@@ -23,7 +23,7 @@ Adoro JavaScript, acho que da pra fazer de tudo com essa linguagem. Também acho
 
 Muita gente não entende o que que é ECMASCRIPT e o que é JavaScript, achando que é a mesma coisa, mas não é!
 
-O ECMAScript é na verdade é a especificação da linguagem de script que o JavaScript implementa, ou seja em outras palavras é uma própria descrição da linguagem, ela diz como são as variáveis, como devem funcionar as funções, as sintaxes, qualquer outro detalhe que você possa imaginar  ta descrito nesse documento. Ela é padronizada pela ECMA internacional que é uma associação criada lá em 1961dedicada à padronização de sistemas de informação e comunicação, essa especificação é definida pela TC39  que é um comitê fomarda por especialistas de grandes companhias da área da tecnologia, empresas como Apple, Google, MicroSoft, Mozila... Esse comitê se reúne aproximadamente a cada 2 meses na California, o tão conhecido berço da tenocnologia, o vale do silício, para discutir o futuro da especificação.  As datas, as reuniões e mais detalhes estão disponível no site oficial 
+O ECMAScript é na verdade é a especificação da linguagem de script que o JavaScript implementa, ou seja em outras palavras é uma própria descrição da linguagem, ela diz como são as variáveis, como devem funcionar as funções, as sintaxes, qualquer outro detalhe que você possa imaginar  ta descrito nesse documento. Ela é padronizada pela ECMA internacional que é uma associação criada lá em 1961dedicada à padronização de sistemas de informação e comunicação, essa especificação é definida pela TC39  que é um comitê fomarda por especialistas de grandes companhias da área da tecnologia, empresas como Apple, Google, Microsoft, Mozila... Esse comitê se reúne aproximadamente a cada 2 meses na California, o tão conhecido berço da tenocnologia, o vale do silício, para discutir o futuro da especificação.  As datas, as reuniões e mais detalhes estão disponível no site oficial 
 
 ### Referências:
 
@@ -65,5 +65,13 @@ O ECMAScript é na verdade é a especificação da linguagem de script que o Jav
 * [O que há de novo no Babel 7?](https://imasters.com.br/front-end/o-que-ha-de-novo-no-babel-7) - por Diego Pinho
 
 * [Pílulas de JavaScript](https://medium.com/@larimaza) - por Lari Maza
+
+* [O que são e como funcionam as Arrow Functions?] (https://medium.com/@raphalima8/arrow-functions-declara%C3%A7%C3%A3o-funcionamento-escopos-e-o-valor-de-this-9cb6449bca31) - por Raphael Lima
+
+* [ES6 Arrow Functions: Fat and Concise Syntax in JavaScript](https://www.sitepoint.com/es6-arrow-functions-new-fat-concise-syntax-javascript/) (em inglês)
+
+* [Promises no JavaScript] (https://braziljs.org/blog/promises-no-javascript/) - Artigos BrazilJS
+
+* [JavaScript assíncrono: callbacks, promises e async functions] (https://medium.com/@alcidesqueiroz/javascript-ass%C3%ADncrono-callbacks-promises-e-async-functions-9191b8272298) - Alcides Queiroz
 
 
