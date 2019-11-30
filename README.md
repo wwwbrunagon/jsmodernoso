@@ -66,12 +66,12 @@ O ECMAScript é na verdade é a especificação da linguagem de script que o Jav
 
 * [Pílulas de JavaScript](https://medium.com/@larimaza) - por Lari Maza
 
-* [O que são e como funcionam as Arrow Functions?] (https://medium.com/@raphalima8/arrow-functions-declara%C3%A7%C3%A3o-funcionamento-escopos-e-o-valor-de-this-9cb6449bca31) - por Raphael Lima
+* [O que são e como funcionam as Arrow Functions?](https://medium.com/@raphalima8/arrow-functions-declara%C3%A7%C3%A3o-funcionamento-escopos-e-o-valor-de-this-9cb6449bca31) - por Raphael Lima
 
 * [ES6 Arrow Functions: Fat and Concise Syntax in JavaScript](https://www.sitepoint.com/es6-arrow-functions-new-fat-concise-syntax-javascript/) (em inglês)
 
-* [Promises no JavaScript] (https://braziljs.org/blog/promises-no-javascript/) - Artigos BrazilJS
+* [Promises no JavaScript](https://braziljs.org/blog/promises-no-javascript/) - Artigos BrazilJS
 
-* [JavaScript assíncrono: callbacks, promises e async functions] (https://medium.com/@alcidesqueiroz/javascript-ass%C3%ADncrono-callbacks-promises-e-async-functions-9191b8272298) - Alcides Queiroz
+* [JavaScript assíncrono: callbacks, promises e async functions](https://medium.com/@alcidesqueiroz/javascript-ass%C3%ADncrono-callbacks-promises-e-async-functions-9191b8272298) - Alcides Queiroz
 
 
