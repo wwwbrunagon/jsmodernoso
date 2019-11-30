@@ -60,6 +60,9 @@ O ECMAScript é na verdade é a especificação da linguagem de script que o Jav
 
 ---------------------------------------------------
 ### O Modernoso
+* [Configurando um projeto NodeJS e ES6 com Babel 7 ](https://medium.com/@jeffersontpadua/configurando-um-projeto-nodejs-e-es6-com-babel-7-283fc0c2b640) - por Jefferson Tavares de Pádua
+
+* [O que há de novo no Babel 7?](https://imasters.com.br/front-end/o-que-ha-de-novo-no-babel-7) - por Diego Pinho
 
 * [Pílulas de JavaScript](https://medium.com/@larimaza) - por Lari Maza
 
