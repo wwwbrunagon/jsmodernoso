@@ -1,4 +1,4 @@
-# Evolução e Especificação do JavaScript Moderno 
+# Evolução + Especificação do JavaScript Modernoso 
 Atualmente, é praticamente impossível imaginar a Internet sem a existência do JavaScript. Em conjunto com o HTML e o CSS, o JavaScript – bem como suas bibliotecas e tecnologias relacionadas – é um dos alicerces fundamentais da web como a conhecemos.
 
 ![](reprograma-tech-talk.jpg)
