@@ -64,6 +64,10 @@ O ECMAScript é na verdade é a especificação da linguagem de script que o Jav
 
 * [O que há de novo no Babel 7?](https://imasters.com.br/front-end/o-que-ha-de-novo-no-babel-7) - por Diego Pinho
 
+
+* [ Métodos Auxiliares para Array](https://medium.com/@joaocrulhas/es6-m%C3%A9todos-auxiliares-para-array-47ee7399bd32) - por Joao Pedro Rubira Crulhas
+
+
 * [Pílulas de JavaScript](https://medium.com/@larimaza) - por Lari Maza
 
 * [O que são e como funcionam as Arrow Functions?](https://medium.com/@raphalima8/arrow-functions-declara%C3%A7%C3%A3o-funcionamento-escopos-e-o-valor-de-this-9cb6449bca31) - por Raphael Lima
