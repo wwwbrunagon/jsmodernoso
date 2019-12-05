@@ -67,7 +67,6 @@ O ECMAScript é na verdade é a especificação da linguagem de script que o Jav
 
 * [ Métodos Auxiliares para Array](https://medium.com/@joaocrulhas/es6-m%C3%A9todos-auxiliares-para-array-47ee7399bd32) - por Joao Pedro Rubira Crulhas
 
-
 * [Pílulas de JavaScript](https://medium.com/@larimaza) - por Lari Maza
 
 * [O que são e como funcionam as Arrow Functions?](https://medium.com/@raphalima8/arrow-functions-declara%C3%A7%C3%A3o-funcionamento-escopos-e-o-valor-de-this-9cb6449bca31) - por Raphael Lima
@@ -77,5 +76,9 @@ O ECMAScript é na verdade é a especificação da linguagem de script que o Jav
 * [Promises no JavaScript](https://braziljs.org/blog/promises-no-javascript/) - Artigos BrazilJS
 
 * [JavaScript assíncrono: callbacks, promises e async functions](https://medium.com/@alcidesqueiroz/javascript-ass%C3%ADncrono-callbacks-promises-e-async-functions-9191b8272298) - Alcides Queiroz
+
+
+* [ECMAScript Modules](https://www.youtube.com/watch?v=jA5XX7Fd8Ys) -video por Filipe Deschamps
+
 
 
