@@ -11,7 +11,7 @@ Adoro JavaScript, acho que da pra fazer de tudo com essa linguagem. Também acho
 
 * [Linkedin](https://www.linkedin.com/in/wwwbrunagon) 
 * [Twitter](https://twitter.com/wwwbrunagon) 
-* [Instagram](https://www.instagram.com/nomade.rocks)
+* [Instagram](https://www.instagram.com/nomaden.js)
 * [Spotify](https://open.spotify.com/user/21azmue4lpavlcicdzeqmuxza?si=uney0j4prlk8_4mwedutpa)
 
 ---------------------------------------------------
