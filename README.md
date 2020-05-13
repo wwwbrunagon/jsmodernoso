@@ -7,11 +7,7 @@ Atualmente, é praticamente impossível imaginar a Internet sem a existência do
 Participei da turma 5 de front-end da [{reprograma}](https://reprograma.com.br/), primeira turma do bootcamp da [Estação Hack - Facebook SP](https://www.facebook.com/estacaohack/), e atualmente sou desenvolvedora front-end . Adoro JavaScript, acho que da pra fazer de tudo com essa linguagem. =)
 
 ### entre em contato:
-
-* [Linkedin](https://www.linkedin.com/in/wwwbrunagon) 
-* [Twitter](https://twitter.com/wwwbrunagon) 
-* [Instagram](https://www.instagram.com/nomaden.js)
-* [Spotify](https://open.spotify.com/user/21azmue4lpavlcicdzeqmuxza?si=uney0j4prlk8_4mwedutpa)
+* [Site pessoal](https://wwwbrunagon.github.io/)
 
 ---------------------------------------------------
 
