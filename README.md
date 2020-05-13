@@ -4,7 +4,7 @@ Atualmente, é praticamente impossível imaginar a Internet sem a existência do
 ![](reprograma-tech-talk.jpg)
 
 ## Eu, Bruna Gonçalves, Front-end Déva
-Participei da turma 5 de front-end da [{reprograma}](https://reprograma.com.br/), primeira turma do bootcamp da [Estação Hack - Facebook SP](https://www.facebook.com/estacaohack/), e atualmente sou Front-End Software Engineer. Adoro JavaScript, acho que da pra fazer de tudo com essa linguagem. Também acho um máximo tudo que envolve realidade virtual e machine learning. Me considero extremamente determinada e obcecada por tecnologia. E amo um clichê principalmente café com wifi.
+Participei da turma 5 de front-end da [{reprograma}](https://reprograma.com.br/), primeira turma do bootcamp da [Estação Hack - Facebook SP](https://www.facebook.com/estacaohack/), e atualmente sou desenvolvedora front-end . Adoro JavaScript, acho que da pra fazer de tudo com essa linguagem. =)
 
 ### entre em contato:
 
