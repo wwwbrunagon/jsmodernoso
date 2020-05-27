@@ -1,7 +1,6 @@
 # Evolução + Especificação do JavaScript Modernoso 
 Atualmente, é praticamente impossível imaginar a Internet sem a existência do JavaScript. Em conjunto com o HTML e o CSS, o JavaScript – bem como suas bibliotecas e tecnologias relacionadas – é um dos alicerces fundamentais da web como a conhecemos.
 
-![](reprograma-tech-talk.jpg)
 
 ## Eu, Bruna Gonçalves, Front-end Déva
 Participei da turma 5 de front-end da [{reprograma}](https://reprograma.com.br/), primeira turma do bootcamp da [Estação Hack - Facebook SP](https://www.facebook.com/estacaohack/), e atualmente sou desenvolvedora front-end . Adoro JavaScript, acho que da pra fazer de tudo com essa linguagem. =)
